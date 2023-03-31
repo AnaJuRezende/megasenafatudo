@@ -62,7 +62,7 @@ int main(){
     }
     
     if(aux == 0){
-        printf("Nenhum");
+        printf("Nenhum número igual!");
     }
     
 }
