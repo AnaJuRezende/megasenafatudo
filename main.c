@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> //necessário para usar a função system()
 #include <locale.h> //biblioteca dos caracteres
 #include <time.h> //biblioteca do tempo
 
